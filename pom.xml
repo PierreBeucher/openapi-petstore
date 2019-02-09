@@ -25,6 +25,7 @@
     <build>
         <sourceDirectory>src/main/java</sourceDirectory>
         <testSourceDirectory>src/test/java</testSourceDirectory>
+        <finalName>petstore</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
